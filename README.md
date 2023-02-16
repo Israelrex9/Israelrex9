@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Javascript and its libraries
 - 💞️ I’m looking to collaborate on web3 tech projects
 - 📫 How to reach me; email at israel06.rex@gmail.com
+- 🚀 Visit my page to know more, https://israelrex.com
 
 <!---
 Israelrex9/Israelrex9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
