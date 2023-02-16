@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Israel Rex, a Product designer and budding frontend developer. 
+- 👋 Hi, I’m Israel Rex, a Product designer and frontend engineer. 
 - 👀 I’m interested in web3 projects and easing web3 user interfaces
 - 🌱 I’m currently learning Javascript and its libraries
 - 💞️ I’m looking to collaborate on web3 tech projects
