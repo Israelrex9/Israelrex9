@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Israel Rex, a Product designer and frontend engineer. 
+- 👋 Hi, I’m Israel Rex, a Design Engineer. 
 - 👀 I’m interested in Blockchain and AI projects.
 - 🌱 I’m currently learning User Interface Development
 - 📫 How to reach me; email at rex@xelmar.co
